@@ -1,9 +1,9 @@
-#Air Passenger Traffic Forecasting with ARIMA
+Air Passenger Traffic Forecasting with ARIMA
 
-##Overview
+Overview
 This project involves forecasting air passenger traffic using the ARIMA (AutoRegressive Integrated Moving Average) model. The objective is to predict future passenger volumes based on historical data, helping to understand trends and make informed strategic decisions.
 
-##Project Details
+Project Details
 ARIMA Model Development
 Data Transformation: Converted time series data to achieve stationarity using moving averages and differencing techniques.
 Parameter Optimization: Utilized ACF (AutoCorrelation Function) and PACF (Partial AutoCorrelation Function) plots to determine optimal parameters (p, d, q) for the ARIMA model.
